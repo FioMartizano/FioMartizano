@@ -1,0 +1,52 @@
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-profile-summary-cards
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          TIME_ZONE: Asia/Manila
+          THEME: chartreuse_dark # lime on black, closest built-in theme to Artizaano
+          ANIMATION: stagger # cards animate in on load (try: fade, rise, draw, sequence)
+          AUTO_PUSH: false # we recolor the SVGs below, then commit ourselves
+
+      # Nudge the theme's colors onto the exact Artizaano palette.
+      #   #7fff00 lime   -> #C8FF32
+      #   #00aeff blue   -> #08A9C5
+      #   #fff   text    -> #F1EEE7
+      #   #000   / #000000 background -> #0B0B0D
+      - name: Recolor cards to the Artizaano palette
+        run: |
+          for f in profile-summary-card-output/chartreuse_dark/*.svg; do
+            sed -i -E \
+              -e 's/#7fff00/#C8FF32/gI' \
+              -e 's/#00aeff/#08A9C5/gI' \
+              -e 's/#000000([^0-9a-fA-F])/#0B0B0D\1/g' \
+              -e 's/#000([^0-9a-fA-F])/#0B0B0D\1/g' \
+              -e 's/#fff([^0-9a-fA-F])/#F1EEE7\1/g' \
+              "$f"
+          done
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output
+          git diff --cached --quiet || git commit -m "chore: update profile summary cards"
+          git push
