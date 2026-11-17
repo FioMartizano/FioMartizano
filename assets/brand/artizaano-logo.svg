@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220" role="img" aria-labelledby="title desc">
+<title id="title">Artizaano logo</title><desc id="desc">A playful lime and cyan smile mark beside the Artizaano wordmark.</desc>
+<defs>
+  <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<g transform="translate(24 20)">
+  <circle cx="88" cy="90" r="72" fill="#C8FF32" stroke="#08A9C5" stroke-width="12"/>
+  <ellipse cx="64" cy="76" rx="8" ry="13" fill="#0B0B0D"/>
+  <ellipse cx="112" cy="76" rx="8" ry="13" fill="#0B0B0D"/>
+  <path d="M48 108 Q88 151 129 108" fill="none" stroke="#0B0B0D" stroke-width="10" stroke-linecap="round"/>
+  <path d="M20 90a68 68 0 0 0 136 0" fill="none" stroke="#F1EEE7" stroke-width="4" opacity=".9"/>
+</g>
+<g transform="translate(205 0)">
+  <text x="0" y="123" fill="#C8FF32" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="900" letter-spacing="-4">ARTIZAANO</text>
+  <rect x="4" y="147" width="92" height="7" rx="3.5" fill="#6D35F2"/>
+  <rect x="105" y="147" width="42" height="7" rx="3.5" fill="#08A9C5"/>
+  <text x="4" y="185" fill="#98959D" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="5">DESIGN / CODE / CREATE</text>
+</g>
+</svg>
