@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="assets/hero/artizaano-banner.svg" width="100%" alt="Artizaano — Design. Develop. Create." />
+<img src="assets/hero/artizaano-banner1.svg" width="100%" alt="Artizaano — Design. Develop. Create." />
 
 <br/>
 
-<img src="assets/brand/artizaano-logo.svg" width="320" alt="Artizaano logo" />
+<img src="assets/brand/artizaano-logo1.svg" width="320" alt="Artizaano logo" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=C8FF32&center=true&vCenter=true&repeat=true&width=760&height=60&lines=ARTIZAANO;DESIGN.+DEVELOP.+CREATE.;DESIGNED+WITH+INTENTION.;BUILT+WITH+CURIOSITY." alt="Artizaano typing banner" />
 
 <br/>
 
@@ -26,18 +30,19 @@ I enjoy transforming ideas into functional digital products, designing intuitive
 -  Building full-stack products and motion-driven web experiences
 -  Designing brand identities, interfaces, and visual systems
 -  Currently exploring motion design and interactive web
+-  Available for an internship
 
 
-## 02 / LANGUAGES & ACTIVITY
+## 03 / LANGUAGES & ACTIVITY
+
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FioMartizano&show_icons=true&hide_border=true&bg_color=0B0B0D&title_color=C8FF32&text_color=F1EEE7&icon_color=08A9C5&ring_color=C8FF32" height="180" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FioMartizano&layout=compact&hide_border=true&bg_color=0B0B0D&title_color=C8FF32&text_color=F1EEE7&langs_count=6" height="180" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" width="49%" alt="Profile details" />
+<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/chartreuse_dark/3-stats.svg" width="49%" alt="GitHub stats" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=FioMartizano&hide_border=true&background=0B0B0D&ring=C8FF32&fire=E85D24&currStreakNum=C8FF32&sideNums=C8FF32&currStreakLabel=F1EEE7&sideLabels=F1EEE7&dates=F1EEE7" alt="GitHub streak" />
+<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" width="49%" alt="Top languages by commits" />
+<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" width="49%" alt="Productive time" />
 
 </div>
 
@@ -96,14 +101,15 @@ I enjoy transforming ideas into functional digital products, designing intuitive
 ## 06 / CONTACT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0D?style=for-the-badge&logo=linkedin&logoColor=08A9C5)](https://www.linkedin.com/in/fiona-marie-martizano-54670b3b1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B0B0D?style=for-the-badge&logo=vercel&logoColor=C8FF32)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/Email-0B0B0D?style=for-the-badge&logo=gmail&logoColor=E85D24)](mailto:your-email@example.com)
 
 ---
 
 <div align="center">
 
-<img src="assets/graphics/brand-pattern.svg" width="100%" alt="Artizaano visual pattern" />
+<img src="assets/graphics/brand-pattern1.svg" width="100%" alt="Artizaano visual pattern" />
 
 <br/>
-
 
 </div>
