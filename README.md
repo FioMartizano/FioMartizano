@@ -46,18 +46,7 @@ A personal creative identity and portfolio exploring branding, visual design, an
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### AI HAS
-
-An AI-assisted document and information retrieval project.
-
-**Focus:** Document processing · Python · RAG · Vector search
-
-<sub>Currently developing as a group project.</sub>
-
-</td>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### OTHER EXPERIMENTS
 
@@ -117,8 +106,6 @@ Small applications, interface explorations, academic projects, and creative expe
 
 ## 04 / CURRENTLY EXPLORING
 
-- AI-powered applications and retrieval-augmented generation (RAG)
-- Document processing and vector search
 - Motion design and interactive web experiences
 - UI/UX design, product thinking, and prototyping
 - Branding, visual identity, and creative direction
