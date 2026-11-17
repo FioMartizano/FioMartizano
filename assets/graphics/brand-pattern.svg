@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title">
+<title id="title">Artizaano brand pattern</title>
+<rect width="900" height="240" rx="18" fill="#0B0B0D"/>
+<g fill="none" stroke="#6D35F2" stroke-width="2" opacity=".8">
+ <circle cx="120" cy="120" r="78"/><circle cx="120" cy="120" r="58"/><circle cx="120" cy="120" r="38"/>
+ <path d="M35 120H205M120 35V205"/>
+ <path d="M320 30C390 90 390 150 320 210M350 30C420 90 420 150 350 210M380 30C450 90 450 150 380 210"/>
+ <path d="M520 45L690 45L640 195L470 195Z"/>
+</g>
+<g fill="#C8FF32"><circle cx="120" cy="120" r="8"/><circle cx="350" cy="120" r="7"/><circle cx="580" cy="120" r="8"/></g>
+<g fill="#08A9C5"><circle cx="205" cy="120" r="5"/><circle cx="470" cy="195" r="5"/><circle cx="690" cy="45" r="5"/></g>
+<text x="750" y="105" fill="#F1EEE7" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle">A / A</text>
+<text x="750" y="137" fill="#98959D" font-family="monospace" font-size="10" letter-spacing="2" text-anchor="middle">ARTIZAANO</text>
+</svg>
