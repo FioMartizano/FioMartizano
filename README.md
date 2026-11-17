@@ -36,11 +36,11 @@ I enjoy transforming ideas into functional digital products, designing intuitive
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" width="49%" alt="Profile details" />
-<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/chartreuse_dark/3-stats.svg" width="49%" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" alt="Profile details" />
+<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats" />
 
-<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" width="49%" alt="Top languages by commits" />
-<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" width="49%" alt="Productive time" />
+<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Top languages by commits" />
+<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive time" />
 
 </div>
 
