@@ -22,43 +22,26 @@ I'm Fio — a developer, UI/UX designer, and creative interested in the intersec
 
 I enjoy transforming ideas into functional digital products, designing intuitive interfaces, developing visual identities, and creating engaging digital experiences. My interests move between software development and the creative process: from structure and usability to typography, art direction, and motion.
 
-## 02 / SELECTED WORK
+-  Third-year student at De La Salle University Dasmariñas
+-  Building full-stack products and motion-driven web experiences
+-  Designing brand identities, interfaces, and visual systems
+-  Currently exploring motion design and interactive web
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### SUBDIVERSE
+## 02 / LANGUAGES & ACTIVITY
 
-A community-based information system and real-time booking platform for a residential community.
+<div align="center">
 
-**Focus:** Full-stack development · Database design · Booking workflows · Payment integration
+<img src="https://github-readme-stats.vercel.app/api?username=FioMartizano&show_icons=true&hide_border=true&bg_color=0B0B0D&title_color=C8FF32&text_color=F1EEE7&icon_color=08A9C5&ring_color=C8FF32" height="180" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FioMartizano&layout=compact&hide_border=true&bg_color=0B0B0D&title_color=C8FF32&text_color=F1EEE7&langs_count=6" height="180" alt="Top languages" />
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### ARTIZAANO
+<img src="https://streak-stats.demolab.com?user=FioMartizano&hide_border=true&background=0B0B0D&ring=C8FF32&fire=E85D24&currStreakNum=C8FF32&sideNums=C8FF32&currStreakLabel=F1EEE7&sideLabels=F1EEE7&dates=F1EEE7" alt="GitHub streak" />
 
-A personal creative identity and portfolio exploring branding, visual design, and digital experiences.
+</div>
 
-**Focus:** Brand identity · UI/UX · Visual direction · Frontend development
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### OTHER EXPERIMENTS
-
-Small applications, interface explorations, academic projects, and creative experiments.
-
-**Focus:** Learning by building · Prototyping · Iteration
-
-</td>
-</tr>
-</table>
-
-## 03 / TECHNOLOGY & CREATIVE TOOLKIT
+## 04 / TECHNOLOGY & CREATIVE TOOLKIT
 
 **Programming Languages**
 
@@ -104,11 +87,15 @@ Small applications, interface explorations, academic projects, and creative expe
 ![VS Code](https://img.shields.io/badge/VS_Code-0B0B0D?style=flat-square&logo=visualstudiocode&logoColor=08A9C5)
 ![Vercel](https://img.shields.io/badge/Vercel-0B0B0D?style=flat-square&logo=vercel&logoColor=F1EEE7)
 
-## 04 / CURRENTLY EXPLORING
+## 05 / CURRENTLY EXPLORING
 
 - Motion design and interactive web experiences
 - UI/UX design, product thinking, and prototyping
 - Branding, visual identity, and creative direction
+
+## 06 / CONTACT
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0D?style=for-the-badge&logo=linkedin&logoColor=08A9C5)](https://www.linkedin.com/in/fiona-marie-martizano-54670b3b1)
 
 ---
 
@@ -118,8 +105,5 @@ Small applications, interface explorations, academic projects, and creative expe
 
 <br/>
 
-**ARTIZAANO AFTER DARK**
-
-*Designed with intention. Built with curiosity.*
 
 </div>
