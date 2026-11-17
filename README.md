@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="assets/brand/artizaano-logo1.svg" width="320" alt="Artizaano logo" />
+<img src="assets/brand/artizaano-logo1.png" width="320" alt="Artizaano sticker logo" />
 
 <br/>
 
@@ -26,15 +26,13 @@ I'm Fio — a developer, UI/UX designer, and creative interested in the intersec
 
 I enjoy transforming ideas into functional digital products, designing intuitive interfaces, developing visual identities, and creating engaging digital experiences. My interests move between software development and the creative process: from structure and usability to typography, art direction, and motion.
 
--  Third-year student at De La Salle University Dasmariñas
--  Building full-stack products and motion-driven web experiences
--  Designing brand identities, interfaces, and visual systems
--  Currently exploring motion design and interactive web
--  Available for an internship
+- Fourth-year BSIT student, majoring in Web Development at De La Salle University Dasmariñas
+- Building websites and motion-driven web experiences
+- Designing brand identities, interfaces, and visual systems
+- Currently exploring motion design and interactive web
+- Available for an internship
 
-
-## 03 / LANGUAGES & ACTIVITY
-
+## 02 / LANGUAGES & ACTIVITY
 
 <div align="center">
 
@@ -46,7 +44,7 @@ I enjoy transforming ideas into functional digital products, designing intuitive
 
 </div>
 
-## 04 / TECHNOLOGY & CREATIVE TOOLKIT
+## 03 / TECHNOLOGY & CREATIVE TOOLKIT
 
 **Programming Languages**
 
@@ -92,24 +90,20 @@ I enjoy transforming ideas into functional digital products, designing intuitive
 ![VS Code](https://img.shields.io/badge/VS_Code-0B0B0D?style=flat-square&logo=visualstudiocode&logoColor=08A9C5)
 ![Vercel](https://img.shields.io/badge/Vercel-0B0B0D?style=flat-square&logo=vercel&logoColor=F1EEE7)
 
-## 05 / CURRENTLY EXPLORING
+## 04 / CURRENTLY EXPLORING
 
 - Motion design and interactive web experiences
 - UI/UX design, product thinking, and prototyping
 - Branding, visual identity, and creative direction
 
-## 06 / CONTACT
+## 05 / CONTACT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0D?style=for-the-badge&logo=linkedin&logoColor=08A9C5)](https://www.linkedin.com/in/fiona-marie-martizano-54670b3b1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B0B0D?style=for-the-badge&logo=vercel&logoColor=C8FF32)](https://your-portfolio-url.com)
-[![Email](https://img.shields.io/badge/Email-0B0B0D?style=for-the-badge&logo=gmail&logoColor=E85D24)](mailto:your-email@example.com)
 
 ---
 
 <div align="center">
 
 <img src="assets/graphics/brand-pattern1.svg" width="100%" alt="Artizaano visual pattern" />
-
-<br/>
 
 </div>
