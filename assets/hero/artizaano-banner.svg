@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Artizaano After Dark</title><desc id="desc">Dark editorial banner with violet orbital lines, acid lime accents, and Artizaano identity.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#09090C"/><stop offset=".55" stop-color="#15121D"/><stop offset="1" stop-color="#08090D"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#6D35F2" stop-opacity=".42"/><stop offset="1" stop-color="#6D35F2" stop-opacity="0"/></radialGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="35"/></filter>
+</defs>
+<rect width="1200" height="360" fill="url(#bg)"/>
+<ellipse cx="930" cy="160" rx="360" ry="230" fill="url(#glow)" filter="url(#blur)"/>
+<g fill="none" stroke="#6D35F2" stroke-width="1.4" opacity=".48">
+ <path d="M620 -40C760 70 850 40 1040 8S1270 90 1110 220 780 370 610 300"/>
+ <path d="M590 -25C750 105 870 80 1045 40S1220 105 1080 230 800 340 620 325"/>
+ <path d="M650 -45C800 65 900 10 1080 0S1260 110 1150 255 870 375 690 320"/>
+ <path d="M720 -35C825 80 930 65 1100 35S1260 135 1120 275 920 350 740 310"/>
+</g>
+<g fill="#C8FF32"><circle cx="1040" cy="76" r="4"/><circle cx="1115" cy="252" r="3"/><circle cx="748" cy="292" r="3"/></g>
+<g transform="translate(72 70)">
+ <text x="0" y="22" fill="#C8FF32" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="5">FIO / ARTIZAANO</text>
+ <text x="-4" y="145" fill="#F1EEE7" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="900" letter-spacing="-5">DESIGN.</text>
+ <text x="0" y="226" fill="#F1EEE7" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="900" letter-spacing="-5">DEVELOP.</text>
+ <text x="0" y="285" fill="#98959D" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="5">CREATE WITH INTENTION.</text>
+ <rect x="0" y="305" width="90" height="5" rx="2.5" fill="#6D35F2"/><rect x="98" y="305" width="36" height="5" rx="2.5" fill="#08A9C5"/>
+</g>
+<g transform="translate(1000 180)">
+ <circle r="66" fill="#C8FF32" stroke="#08A9C5" stroke-width="9"/>
+ <ellipse cx="-22" cy="-10" rx="7" ry="12" fill="#0B0B0D"/><ellipse cx="22" cy="-10" rx="7" ry="12" fill="#0B0B0D"/>
+ <path d="M-34 17Q0 54 35 17" fill="none" stroke="#0B0B0D" stroke-width="9" stroke-linecap="round"/>
+</g>
+<text x="1120" y="332" text-anchor="end" fill="#98959D" font-family="monospace" font-size="12" letter-spacing="3">AFTER DARK / 001</text>
+</svg>
