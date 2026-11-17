@@ -18,11 +18,11 @@ jobs:
       - name: Generate cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
         with:
           USERNAME: ${{ github.repository_owner }}
           TIME_ZONE: Asia/Manila
-          THEME: chartreuse_dark # lime on black, closest built-in theme to Artizaano
+          THEME: github_dark # valid built-in dark theme; recolored below
           ANIMATION: stagger # cards animate in on load (try: fade, rise, draw, sequence)
           AUTO_PUSH: false # we recolor the SVGs below, then commit ourselves
 
@@ -33,7 +33,7 @@ jobs:
       #   #000   / #000000 background -> #0B0B0D
       - name: Recolor cards to the Artizaano palette
         run: |
-          for f in profile-summary-card-output/chartreuse_dark/*.svg; do
+          for f in profile-summary-card-output/github_dark/*.svg; do
             sed -i -E \
               -e 's/#7fff00/#C8FF32/gI' \
               -e 's/#00aeff/#08A9C5/gI' \
