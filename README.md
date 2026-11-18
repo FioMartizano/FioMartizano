@@ -91,8 +91,6 @@ I enjoy transforming ideas into functional digital products, designing intuitive
 ## 05 / CONTACT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0D?style=for-the-badge&logo=linkedin&logoColor=08A9C5)](https://www.linkedin.com/in/fiona-marie-martizano-54670b3b1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B0B0D?style=for-the-badge&logo=vercel&logoColor=C8FF32)](https://your-portfolio-url.com)
-[![Email](https://img.shields.io/badge/Email-0B0B0D?style=for-the-badge&logo=gmail&logoColor=E85D24)](mailto:your-email@example.com)
 
 ---
 
