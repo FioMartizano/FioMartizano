@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="assets/hero/artizaano-banner1.svg" width="100%" alt="Artizaano — Design. Develop. Create." />
-
-<br/>
-
-<img src="assets/brand/artizaano-logo1.png" width="320" alt="Artizaano sticker logo" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=C8FF32&center=true&vCenter=true&repeat=true&width=760&height=60&lines=ARTIZAANO;DESIGN.+DEVELOP.+CREATE.;DESIGNED+WITH+INTENTION.;BUILT+WITH+CURIOSITY." alt="Artizaano typing banner" />
+<img src="assets/hero/artizaano-banner4.svg" width="100%" alt="Artizaano — designed with intention, built with curiosity." />
 
 <br/>
 
@@ -22,7 +14,7 @@
 
 ## 01 / ABOUT
 
-I'm Fio — an aspiring developer, UI/UX designer, and creative interested in the intersection of technology, user experience, branding, and visual expression.
+I'm Fio — a developer, UI/UX designer, and creative interested in the intersection of technology, user experience, branding, and visual expression.
 
 I enjoy transforming ideas into functional digital products, designing intuitive interfaces, developing visual identities, and creating engaging digital experiences. My interests move between software development and the creative process: from structure and usability to typography, art direction, and motion.
 
@@ -36,11 +28,11 @@ I enjoy transforming ideas into functional digital products, designing intuitive
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" alt="Profile details" />
-<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" width="49%" alt="Profile details" />
+<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/chartreuse_dark/3-stats.svg" width="49%" alt="GitHub stats" />
 
-<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Top languages by commits" />
-<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive time" />
+<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" width="49%" alt="Top languages by commits" />
+<img src="https://raw.githubusercontent.com/FioMartizano/FioMartizano/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" width="49%" alt="Productive time" />
 
 </div>
 
@@ -99,11 +91,13 @@ I enjoy transforming ideas into functional digital products, designing intuitive
 ## 05 / CONTACT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0D?style=for-the-badge&logo=linkedin&logoColor=08A9C5)](https://www.linkedin.com/in/fiona-marie-martizano-54670b3b1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B0B0D?style=for-the-badge&logo=vercel&logoColor=C8FF32)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/Email-0B0B0D?style=for-the-badge&logo=gmail&logoColor=E85D24)](mailto:your-email@example.com)
 
 ---
 
 <div align="center">
 
-<img src="assets/graphics/brand-pattern1.svg" width="100%" alt="Artizaano visual pattern" />
+<img src="assets/graphics/brand-pattern3.svg" width="100%" alt="Artizaano visual pattern" />
 
 </div>
