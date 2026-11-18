@@ -14,7 +14,7 @@
 
 ## 01 / ABOUT
 
-I'm Fio — a developer, UI/UX designer, and creative interested in the intersection of technology, user experience, branding, and visual expression.
+I'm Fio, an anspiring developer, UI/UX designer, and creative interested in the intersection of technology, user experience, branding, and visual expression.
 
 I enjoy transforming ideas into functional digital products, designing intuitive interfaces, developing visual identities, and creating engaging digital experiences. My interests move between software development and the creative process: from structure and usability to typography, art direction, and motion.
 
